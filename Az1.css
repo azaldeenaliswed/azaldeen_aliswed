@@ -1,0 +1,96 @@
+/* *
+{
+     margin: 0;
+}
+
+.container{
+    width: 160px;
+    height: 275px;
+    background: brown;
+    color: aliceblue;
+}
+.container p{
+    padding: 5px;
+    font-size: 20px;
+
+}
+.container p:hover, button:hover{
+    background: black;
+    cursor: pointer;
+}
+button{
+    background: brown;
+    color: aliceblue;
+    border: none;
+    border-radius: 5px ;
+}
+#close{
+    position: absolute;
+    left: 160px;
+}
+.hide{
+    display: none; 
+}  */
+/**/
+/* .name{
+    color: white;
+    background: black;
+} */
+/*///////////////////////////////////*/
+/*///////////////////////////////////*/
+/* .photos img{
+    width: 160px;
+    height: 160px;
+    border: 5px solid #aaa;
+}
+.photos img:hover{
+    cursor: pointer;
+    border: 5px solid #080;
+ //////////////////////////////////////  
+}
+.main img{
+    width: 700px;
+    height: 700px;
+    border: 5px solid #aaa;
+} */
+/*///////////////////////////////////////*/
+
+/* /////////////////////////////////////// */
+/* body{
+    width: 2000px;
+    height: 2000px;
+}
+
+#btn{
+    width: 20px;
+    height: 20px;
+    border: none;
+    position: fixed;
+    cursor: pointer;
+    background: #c72222;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
